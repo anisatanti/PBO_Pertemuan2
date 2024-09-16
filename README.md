@@ -25,7 +25,7 @@ super adalah kata kunci yang digunakan untuk merujuk pada kelas induk (superclas
 
 this adalah kata kunci yang merujuk pada objek saat ini dalam konteks kelas. this digunakan untuk membedakan antara atribut objek dan parameter metode yang memiliki nama yang sama. Ini membantu menjaga kejelasan dan mencegah konflik nama.
 ___
-##**Tujuan Pembelajaran**##
+##**Tujuan Pembelajaran**
 - Memahami dan menerapkan konsep konstruktor dalam kelas.
 - Menggunakan Interface untuk mendefinisikan kontrak yang harus diimplementasikan oleh kelas.
 - Mengimplementasikan casting untuk memanfaatkan pewarisan.
