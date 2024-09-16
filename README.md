@@ -1,9 +1,9 @@
-**TUGAS TM 2 PBO (CONSTRUCTOR, INTERFACE, CASTING, SUPER, THIS)**
+# **TUGAS TM 2 PBO (CONSTRUCTOR, INTERFACE, CASTING, SUPER, THIS)**
 ___
-##**_Deskripsi:_**
+## **_Deskripsi:_**
 Proyek ini merupakan tugas dari mata kuliah Pemrograman Berorientasi Objek (PBO) yang membahas penggunaan konsep dasar OOP (Object Oriented Programming) seperti konstruktor, interface, casting, dan penggunaan kata kunci `super` dan `this`. Proyek ini mengimplementasikan studi kasus  sistem manajemen untuk `tenaga medis`, termasuk kelas `Psikolog` dan `Apoteker`.
 ___
-##**Informasi Tambahan**
+## **Informasi Tambahan**
 
 **Constructor**
 
@@ -25,19 +25,19 @@ super adalah kata kunci yang digunakan untuk merujuk pada kelas induk (superclas
 
 this adalah kata kunci yang merujuk pada objek saat ini dalam konteks kelas. this digunakan untuk membedakan antara atribut objek dan parameter metode yang memiliki nama yang sama. Ini membantu menjaga kejelasan dan mencegah konflik nama.
 ___
-##**Tujuan Pembelajaran**
+## **Tujuan Pembelajaran**
 - Memahami dan menerapkan konsep konstruktor dalam kelas.
 - Menggunakan Interface untuk mendefinisikan kontrak yang harus diimplementasikan oleh kelas.
 - Mengimplementasikan casting untuk memanfaatkan pewarisan.
 - Menggunakan kata kunci `super` dan `this` untuk mengakses metode dan atribut kelas induk dan kelas diri sendiri.
 
-##**Spesifikasi proyek**
+## **Spesifikasi proyek**
 - Penentuan informasi dasar mengenai psikolog dan apoteker.
 - Penggunaan konstruktor untuk inisialisasi objek.
 - Implementasi Interface `Konsultasi` dan `PemberianObat`.
 - Demonstrasi penggunaan metode `cek()` pada kelas `Apoteker` untuk interaksi antar metode. Menampilkan perbadaan hasil output menggunakan pemanggilan kata kunci super dan this dengan nama metode yang sama. 
 
-##**Struktur Kelas**
+## **Struktur Kelas**
 - **Utama**: Kelas utama yang menjalankan aplikasi dan menampilkan informasi.
 - **TenagaMedis**: Kelas dasar untuk tenaga medis dengan atribut dan metode umum.
 - **Psikolog**: Kelas yang mewarisi dari `TenagaMedis`, mengimplementasikan interface `Konsultasi` dan `PemberianObat`.
