@@ -1,5 +1,13 @@
 # **TUGAS TM 2 PBO (CONSTRUCTOR, INTERFACE, CASTING, SUPER, THIS)**
 ___
+## **Daftar Isi**
+- [Utama](https://github.com/anisatanti/PBO_Pertemuan2/blob/main/Utama.java)
+- [Tenaga Medis](https://github.com/anisatanti/PBO_Pertemuan2/blob/main/TenagaMedis.java)
+- [Piskolog](https://github.com/anisatanti/PBO_Pertemuan2/blob/main/Psikolog.java)
+- [Konsultasi](https://github.com/anisatanti/PBO_Pertemuan2/blob/main/Konsultasi.java)
+- [PemberianObat](https://github.com/anisatanti/PBO_Pertemuan2/blob/main/PemberianObat.java)
+- [Apoteker](https://github.com/anisatanti/PBO_Pertemuan2/blob/main/Apoteker.java)
+___
 ## **_Deskripsi:_**
 Proyek ini merupakan tugas dari mata kuliah Pemrograman Berorientasi Objek (PBO) yang membahas penggunaan konsep dasar OOP (Object Oriented Programming) seperti konstruktor, interface, casting, dan penggunaan kata kunci super dan this. Proyek ini mengimplementasikan studi kasus tenaga medis, termasuk kelas Psikolog dan Apoteker.
 ___
@@ -25,12 +33,6 @@ super adalah kata kunci yang digunakan untuk merujuk pada kelas induk (superclas
 
 this adalah kata kunci yang merujuk pada objek saat ini dalam konteks kelas. this digunakan untuk membedakan antara atribut objek dan parameter metode yang memiliki nama yang sama. this berfungsi memberi kejelasan dalam output metode yang di panggil.
 ___
-## **Tujuan Pembelajaran**
-- Memahami dan menerapkan konsep konstruktor dalam kelas.
-- Menggunakan Interface untuk mendefinisikan hal-hal yang harus diimplementasikan oleh kelas.
-- Mengimplementasikan casting untuk memanfaatkan pewarisan.
-- Menggunakan kata kunci super dan this untuk mengakses metode dan atribut kelas induk dan kelas diri sendiri.
-
 ## **Spesifikasi proyek**
 - Penentuan informasi dasar mengenai psikolog dan apoteker.
 - Penggunaan konstruktor untuk inisialisasi objek.
